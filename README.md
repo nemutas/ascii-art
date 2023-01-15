@@ -1,17 +1,9 @@
-# ascii-art
+# About
 
-```
-gh repo clone nemutas/ascii-art
-```
+https://nemutas.github.io/ascii-art/
 
-```
-npm install
-```
+<img src='https://user-images.githubusercontent.com/46724121/212554145-67199561-731f-4e12-962c-c121e3cf8020.png' alt='' width='800' />
 
-# using
+# References
 
-- [Vite](https://vitejs.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
-- [Sass](https://sass-lang.com/)
-- [vite-plugin-glsl](https://github.com/UstymUkhman/vite-plugin-glsl)
-- [WebGL GLSL Editor](https://marketplace.visualstudio.com/items?itemName=raczzalan.webgl-glsl-editor) (v1.3.0 -> If the extension is set to glsl, errors originating from threejs built-in variables will not occur.)
+- [ASCII art with MC Hammer and Three.js #37](https://www.youtube.com/watch?v=uO_r3wDfAWo)
