@@ -7,5 +7,4 @@ https://nemutas.github.io/ascii-art/
 # References
 
 - [ASCII art with MC Hammer and Three.js #37](https://www.youtube.com/watch?v=uO_r3wDfAWo)
-
 - [Create your own ASCII art palettes with densitySort](https://www.astoundingscripts.com/art/create-your-own-ascii-art-palettes-densitysort/)
